@@ -1,3 +1,3 @@
 # Cassandra Replayer
-Benchmarking tool for the static anomaly finder and automatec Casssandra replaying mechanism 
+Benchmarking tool for my static bug finder and its associated automatic JDBC replaying mechanism 
 
